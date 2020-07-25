@@ -1,0 +1,10 @@
+* { margin: 0; padding: 0;}
+html
+{
+    min-height: 100%;
+}
+body {text-align: center; margin:5px;}
+
+label {margin-top: 13px;}
+.entry { display: border-box; border: 2px black; border-style: groove; border-radius: 7px; width: 200px; text-align: center;}
+.trigger {margin-top: 10px}
